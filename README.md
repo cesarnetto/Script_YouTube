@@ -1,2 +1,2 @@
-# Script_YouTube
- Criação de script para baixar vídeos do YouTube.
+# Sobre
+ Este código é um script Python para um aplicativo de download do YouTube.
